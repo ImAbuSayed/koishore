@@ -13,9 +13,9 @@
 | **Title** | Koishore |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 05, 2026 |
-| **Song Page** | [Open Song Page](https://imabusayed.github.io/koishore/) |
+| **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Koishore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/koishore/) |
+| **Get License** | [Music Rights & Licensing for Koishore](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে তুমি ছড়াও অদ্ভুত এক আলো
+> তোমার কাছে এলে আমার সবই লাগে ভালো
+> চোখের ভাষায় তুমি যেন ডাকো বারবার
+> এই বুকের মাঝে বাড়ে যে শুধু হাহাকার
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | May 12, 2026 |
+| **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
