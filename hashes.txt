@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Koishore
+
+This log tracks the cryptographic history and versioning for the song **Koishore** (koishore).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-08T02:52:54.225194 | `v1` | `a239c9cd753d642e0e65bfbadbede0ff75551e05ef16c135194b5690452ca674` | `87b91fb0bbc5aaa21309535aa24bcb9dd448383333d9bd9ec56de894fb39828b` | `2026-06-08_koishore-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
