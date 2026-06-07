@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | Pending |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Koishore](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Official Music Licensing for Koishore](https://music.abusayed.com.bd/Licensing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a239c9cd753d642e0e65bfbadbede0ff75551e05ef16c135194b5690452ca674` |
 | **Timestamp** | June 08, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
